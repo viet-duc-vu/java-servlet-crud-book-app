@@ -23,16 +23,6 @@
     <param-value>vietduc6637</param-value>
   </context-param>
 
-<!--  <servlet>-->
-<!--    <servlet-name>BookServlet</servlet-name>-->
-<!--    <servlet-class>com.ducvu.bookstore.BookServlet</servlet-class>-->
-<!--  </servlet>-->
-
-<!--  <servlet-mapping>-->
-<!--    <servlet-name>BookServlet</servlet-name>-->
-<!--    <url-pattern>/</url-pattern>-->
-<!--  </servlet-mapping>-->
-
   <error-page>
     <exception-type>java.lang.Exception</exception-type>
     <location>/error.jsp</location>
