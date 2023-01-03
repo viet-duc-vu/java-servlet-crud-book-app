@@ -8,7 +8,7 @@
     </head>
     <body>
         <center>
-            <h1>Welcome to the local book Library</h1>
+            <h1>Welcome to the Local Book Store</h1>
             <h2>
                 <a href="book?action=list">List All Books</a>
             </h2>
